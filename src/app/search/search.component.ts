@@ -15,5 +15,5 @@ export class SearchComponent {
 
   changeSearchValue(e:any){
     this.searchValue = e.target.value
-  }
+  }  
 }
